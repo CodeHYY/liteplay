@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codehyy.github.io/liteplay/sitemap.xml
