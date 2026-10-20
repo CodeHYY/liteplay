@@ -1,6 +1,18 @@
+<p align="center"><img src="docs/img/icon.png" width="96" alt="LitePlay"></p>
+
 # 轻播 LitePlay
 
-一个干净的安卓视频播放器：本地视频、m3u8 / mp4 链接、外挂字幕、续播，开箱即用。不带内容、不收集数据。
+A clean Android video player · 一个干净的安卓视频播放器：本地视频、m3u8 / mp4 链接、外挂字幕、续播，开箱即用。不带内容、不收集数据。
+
+**Download / 下载**：[LitePlay-1.0.0.apk](https://github.com/CodeHYY/liteplay/releases/download/v1.0.0/LitePlay-1.0.0.apk)（1.9 MB，Android 8.0+）· [Landing page](https://codehyy.github.io/liteplay/)
+
+<p><img src="docs/img/home.jpg" width="170"> <img src="docs/img/play2.jpg" width="170"> <img src="docs/img/speed.jpg" width="170"> <img src="docs/img/pip.jpg" width="170"></p>
+
+## English summary
+- Plays local files, http(s) links, HLS (m3u8) and DASH; external .srt/.vtt subtitles; resume playback.
+- Privacy: only the `INTERNET` permission, no analytics SDK, no account, no uploads. Ships with no media content.
+- Free: speed 0.25×–2×, 5 resume entries, a 5-second ad every 3rd playback + banner. VIP (one-time offline license key): no ads, picture-in-picture, up to 4× speed, 200 resume entries.
+- Verify: `shasum -a 256 LitePlay-1.0.0.apk` → `6ceae8fb7233a177271f5ab59c4dffd084cfff608f096424887981321f069f0a`.
 
 ## 功能
 
@@ -32,4 +44,4 @@ App 内「激活 / 开通 VIP」输入授权码即可，授权码离线校验（
 
 ## 声明
 
-轻播只是播放器，不提供、不内置任何影视内容。请只播放你有权观看的内容。
+轻播只是播放器，不提供、不内置任何影视内容。请只播放你有权观看的内容。本页文案由 AI 辅助撰写。
