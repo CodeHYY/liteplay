@@ -1,1 +1,1 @@
-{"banner":[],"interstitial":[]}
+{"settings":{"bannerOn":true,"interstitialOn":true,"rewardedOn":true,"every":3,"minIntervalSec":180,"dailyCap":6,"newUserFreePlays":2,"rewardedHours":12,"rewardedSeconds":10},"banner":[],"interstitial":[],"rewarded":[]}
